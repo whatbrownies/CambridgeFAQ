@@ -1,100 +1,98 @@
+#Archived 6/16-11/28 FAQ
+----------
 
- 
-# Archived FAQ before 3/24 can be found here:
-## Made by WhatBrownies#2476 (WhatBrownies ⌨) and boxer#7326 (boxer)
- 
-THIS IS THE MOST RECENTLY UPDATED FAQ AS OF 3/24. THE ABOVE INFORMATION IS OLDER INFORMATION. PLEASE FOLLOW THE FAQ BELOW.
- 
+THIS IS THE MOST RECENTLY UPDATED FAQ AS OF 6/16. THE ABOVE INFORMATION IS OLDER INFORMATION. PLEASE FOLLOW THE FAQ BELOW.
+
 Welcome!!!!
-Please, please, PLEASE read the FAQs. I cannot stress this enough. These are by far the most common questions and giving this a read will 99% answer your question. Please refrain from asking the same question as many other people when this FAQ is an excellent way for you to make YOUR OWN JUDGEMENT to camp or not. Use the FAQ for guidance. 
- 
-## What are the different channels for?
-- 💬-ma-general-chat - Used for general, every day chatter
-- 🐀-ma-line-chat-strix-corner - Used for chatting and communicating with people in line, as well as gauging the current status of the line such as how many people are there.
-- 📦-ma-stock-alerts -  STRICTLY used for notifying the Cambridge community of all known levels of stock for highly sought after products.  Individuals from #🐀-ma-line-chat strix-corner who are pretty much lined up at MC should post here of what was in stock.
+Please, please, PLEASE read the FAQs. I cannot stress this enough. These are by far the most common questions and giving this a read will 99% answer your question. Please refrain from asking the same question as many other people when this FAQ is an excellent way for you to make YOUR OWN JUDGEMENT. Use the FAQ for guidance. 
 
- 
-## When does Micro Center get new GPU/CPU Stock
+# What are the different channels for?
+
+- 💬-ma-general-chat - Used for general, every day chatter
+- 🐀-ma-strix-corner - Originally used for those who are camping at Micro Center. Given there is no more camping, this is used for morning discussions for those who may or may not have won the random lottery to become a GPU customer. Also used as General 2
+- 📦-ma-stock-alerts -  STRICTLY used for notifying the Cambridge community of all known levels of stock for highly sought after products.  Individuals from 🐀-ma-strix-corner who are pretty much lined up at MC should post here of what was in stock.
+
+# When does Micro Center get new GPU/CPU Stock
 - No truck will ever GUARANTEE that there will be any of the above mentioned stock. There have been days with a bunch of stock, and days without any stock. Truck days are TYPICALLY a good sign that there's a better chance of something being in stock. 
 - The following days are community known days to have the best chance of getting said items: Monday, Wednesday, Thursday, and most recently Friday. Tuesdays and the weekends have been known to have a near 0% chance of getting any of the items.
 - Again, A TRUCK DOES NOT MEAN THEY WILL HAVE THE CARD/PROCESSORS.
 
- 
-## How much stock are on these trucks?
-- LET ME REITERATE: A GUARANTEED TRUCK DOES NOT MEAN GUARANTEED STOCK. With so many different products that different people want, there could be a truck, but the shipment may not contain the component you're looking for. Previous campers in the past have camped on truck days where no stock was present, and others for something they didn't want. In terms of how many units, quantity varies greatly. Some trucks have as little as 2 x 3080s, and others have as many as 50 x 3080 (ahh the legendary Dec. 23 drop). Be prepared to roll the dice.
- 
-## Do they ever get mid day shipments?
+
+# How much stock are on these trucks?
+- LET ME REITERATE: A GUARANTEED TRUCK DOES NOT MEAN GUARANTEED STOCK. With so many different products that different people want, there could be a truck, but the shipment may not contain the component you're looking for. We're fortunate enough that Cambridge Micro Center has now implemented a QR system to let everyone know what stock they will have for that morning. Some trucks have as little as 2 x 3080s, and others have as many as 50 x 3080 (ahh the legendary Dec. 23 drop). Be prepared to roll the dice.
+
+# Do they ever get mid day shipments?
 - Occasionally yes. Which days they actually arrive seems to still be a mystery but they tend to arrive 11am-noon-ish if at all. 
 
-# How early should I get to camp at Micro Center?
-- There is no time thats the optimal chance of getting an item. People have shown up as early as 8PM the day before. People tend to arrive in waves. You decide what time you want to arrive.
-- DO NOT camp midday. Show some courtesy and do not loiter during business hours. It's a store with customers visiting at every hour. Give Micro Center the courtesy and the camping community can continue as it is now, until further notice. 
-- Some advice as a previous camper, if you want the best chance at getting something, DO NOT ANNOUNCE YOUR TIME OF YOUR ARRIVAL. This will ultimately lead to more and more people trying to show up earlier than you, and the community would rather not ruin the privileged of Micro Center allowing us to camp overnight
 
- 
-## Any tips for camping out at Micro Center?
-- Given the better weather, even though we're near Spring, the nights can get cold. Please dress appropriately, and safely. The Discord's recommendations are not responsible for your health. You are. Make the judgement yourself. 
-- Bring your phone, wallet, keys, snacks, a chair, maybe a sleeping bag if you want to catch some sleep
-- Pick your fights! Camping will take a toll on your physical and mental health. Discord community IS NOT RESPONSIBLE 
-- If you're hesitant on camping, frequently check the #🐀-ma-line-chat-strix-corner channel to see if anyone else is there and if there is a truck. Use that information how you see fit
-- If there are 5, 10, 15, 20, whatever number of people, or even 0 people on line, always keep in mind of the first question!
-- MAKE FRIENDS! Just, socially distance. One time, we had our switches with us and we all played with each other.
- 
-## Dude, I'm near the front of the line and I see a rat/heard of a rat?🐀 WTF?
-- Oh that's our mascot, Strix. He chillin. :rat: 
- 
-## What if I leave the line because I forgot something in my car? What if I forgot something at home and I need to rush back?
-- This is a tricky question. If you forgot something in your car, as long as you've made a presence, people are usually fine with letting you run back to your car. 
-- If you've forgotten something at home, its best to consider your spot gone given you'll be gone for at least 15 minutes. Make sure you double and triple check everything you need to camp.
-
-## Can I wait in my car?
-- Don't. Imagine waiting in line for a roller coaster and you're in your car and you rush back to the line and say "Hey I was here first so I should be next" See the issue there? Make it fair for everyone else camping and make your presence known. Implementing a system of having people in line wait in their car is difficult because there will also be campers who won't agree with that idea. 
-- In the past when it was extremely cold, if there were a low amount of people waiting and/or we all introduced ourselves from the Discord, we came to an agreement to wait in our cars. We also waved to incoming campers who arrived at the parking lot and asked if they were okay with this idea. This method will not work 100% of the time but its worth a shot. When there's like 10+ people, I'd say to just deal with it and camp outside.
-
- 
-## Whats the deal with bathrooms?
-- Starbucks doesn't allow anyone to use their restrooms. The first hour of Trader Joes opening time is for seniors - they ask not to use it during that time. Otherwise the toilet in Trader Joes is right at the back of the store. Go in, go to the back, turn right and there it is. The lastest time Trader Joe's will allow anyone to use the restroom is 10 PM. The best bet for the early mornings is the Dunkins a block down. First opportunity is at 4:30 when Dunkins opens.
-
- 
-## How does it work once the clock hits 10am?
-- They'll unlock the front doors, and let people in one at a time. Once you get in, you'll get your hands sprayed with sanitizer and be directed to a sales associate, who will ask you what you're looking for. There will be a stack of printer paper on the table in the front that act as vouchers for a single unit of product, which will be handed to you if what you're looking for is in stock that day. You will be limited to one GPU and one CPU. They'll ask if you would like to add warranty. This is optional. Add it or don't. This is your choice. All of the worthwhile product is kept behind the registers and is given to you once you check out.
-- NO CARDS WILL BE STORED IN THE GLASS AT BYOC.
-- Tips on asking what product you're looking for. KNOW EXACTLY WHAT YOU WANT AND TELL THE REP. If you waste your time rethinking, someone will make that decision behind you and you might miss your golden opportunity. Do your research beforehand, go in with a mission, and stick with it.
-
- 
-## How is Micro Center handling social distancing when people are camping?
--Micro Center has spray painted a yellow line on the sidewalk path closest to the glass. Please follow these lines as guidance and DO NOT camp so close to someone else. Follow social distance guidelines and everything will be a smooth process for everyone.
-
- 
-## Can I camp for someone else?
-- Just dont. I shouldn't have to explain this
-
- 
-## If Micro Center doesn't have what I want but I chose something else and I get a voucher, can I just give it to someone?
-- Absolutely not. If Micro Center finds out, youre breaking their policy. Better yet, if youre caught here as well doing this, you'll receive a swift ban hammer, regardless if it was a mistake. You agreed to the #📜-rules of the Discord, so follow them.
-
-## Does a Micro Center employee know the stock of the trucks? Can I ask them?
+# Does a Micro Center employee know the stock of the trucks? Can I ask them?
 - Micro Center employees don't know the stock of the trucks the day before. Whoever is working in the morning will know, but by that time, stock will be gone before you ask.
 
-## How many graphics cards and processors can I walk out of the store with?
+# How do I go about getting a graphics card then?
+Courtesy of @boxer#7326 as he has acquired key knowledge from MC directly:
+
+- In order to better allocate the constrained supply of the highly sought-after GPUs we will be implementing a new allocation system. Effective Wednesday June 16, 2021 no camping is permitted on Micro Center property. No line forming is allowed unless instructed to do so by a Cambridge Micro Center Associate
+- Starting Thursday June 17th:
+
+> - At 9:00 AM a randomly-generated QR code (generated that day) will be posted outside the store along with the list of cards by series and quantities available that morning. (eg. 3070 x 10, 3080ti x 4, etc)
+> - If you are interested in the card that is available, you will need to scan the QR code and navigate to the registration site. Please note that you will enter a lottery for a general pool and not a specific card.
+> - You will need to go back to your vehicle. Do not form lines and do not congregate by the posters with the QR code. Failure to comply with this rule will result in forfeiture.
+> - No line forming is allowed unless instructed to do so by a Cambridge Micro Center Associate.
+> - In the comfort of your vehicle, register yourself with the following information:
+> - First and Last Name as it appears on your ID
+> - Cell Phone number.
+> - ID Number. 
+
+- A valid State-Issued Drivers License/Identification Card must be presented.
+- The registration site will close at 9:30 AM
+- You have the same chance to purchase a card if you register at 9:00 AM or at 9:29 AM
+> - Immediately upon the closure of registration, randomly selected customers will be notified by Text Message that they secured a chance to purchase a card. 
+> - Notifications are expected to occur between 9:35 AM and 10 AM.
+> - Selected individuals will be instructed to come to the door WITHIN 10 minutes for ID Verification
+> - Your ID will be verified and purchase history checked to ensure the 30 day cooldown period is enforced. 
+> - If your name is drawn but you do not purchase a card it will not impact your standing with regards to the 30-day rule
+
+- Please note that, there will be two ID checks
+> - Outside: to ensure that the registered person is physically present 
+> - Inside: to ensure that the same person is purchasing the card. The Person who won the raffle will have to be the person in-line making a purchase at the register.
+
+Please note that the following actions will result in permanent black listing:
+> - Creating multiple entries by utilizing multiple Phone Numbers/IDs/Variation in Name spelling
+> - Creating registrations for Customers not physically present
+> - Switching place with someone else if your name is drawn
+> - Using fake IDs
+> - Failure to comply with directions with regards to congregation/line forming
+> - Any other attempts to “game” the system.
+
+# What does this mean and how does it look like:
+
+Lets say there are 30 cards available, 10x3080, 5x3070, 5x3090, 10x3080Ti. Micro Center will then RANDOMLY select 30 people. These people could be a mix of people chosen who signed up at various times, 9:06AM, 9:14AM, 9:29AM, etc. Just because you signed up at 9AM on the dot DOES NOT mean you have a better chance. 
+
+Lets say you win, you'll then get a notification that you've won the chance to buy a GPU. You're number 11. As the other 10 customers ahead of you buy up the 3080s, you're presented with either 3070s, 3090s, or 3080Ti's. You can decline if you ONLY wanted a 3080. You can repeat this process until you get the GPU you want, without the need to camp EVERY. DAMN. NIGHT. Please, please, please, dont buy a GPU for the sake of buying a GPU. There are plenty of people taking a swing for a chance to purchase one. Keep in mind that if you do buy one, you will then start your 30 day cool-down, or whatever process Micro Center has in place to prevent GPU hoarding. 
+
+This new system that our Micro Center has implemented is to make things a little easier for people to try for a chance to get a GPU. By going with this method, the most important thing I want to iterate is that no matter what time you show up between 9AM and 9:30AM, everyone has an equal chance to get a GPU. This method does not guarantee that you'll get the specific GPU that you want so badly, hence the part that says "If your name is drawn but you do not purchase a card it will not impact your standing with regards to the 30-day rule". This means that you can register, win the lottery to be a GPU customer, but still leave with nothing assuming you wanted X card but they didn't have X card available. 
+
+This is a very new process and we don't expect everyone to understand this process 100% since we've always known that camping is the only way. Please read this over as much as you can to better understand this process. 
+
+Key takeaways from this:
+- There is absolutely no more camping. Like... never. If you do camp, you run the risk of getting blacklisted and you wont be able eligible for future entries
+- You NEED to be present in order for you to sign up, hence the ID Checks, text message notifications, etc. 
+- Absolutely no sharing the QR code for that day. This is inclusive to both in and out of this Discord server (DMs, social media forums, etc). If you are caught doing this, moderation may take place. Please make it fair for EVERYONE.
+
+# How many graphics cards and processors can I walk out of the store with?
 - 1 item of each category, per customer. You cant have multiple cards or multiple processors. You decide what you want. 
 - Micro Center's across the US have now started to implement the "1 card, per customer, per 30 day" rule and some have even gone as far as implementing "1 card per household" rule to combat scalpers. Our particular Micro Center has the "1 card, per customer, per 30 day" rule. If you attempt to break any of these rules that the Cambridge Micro Center has in place, and they tell you they will not sell the product to you, that's that. There's nothing that us as a Discord server can do to help you. Do not talk about trying to circumvent this.  If you're caught doing this, you'll be banned. 
- 
-## Who can I contact if I have heard people talk about scalping in line and/or I know the Discord user who has said such things?
-- Please DM me as I am the most active Moderator of this Micro Center. If I dont respond within a few hours, reach out to any of our Community Leaders @boxer or @tefla. If all else fails to reply, submit a Mod Mail or DM another mod.
 
-## Can I trust Ricky?
-- Whats a Ricky? :kek:
- 
-# As of April 16, 2021
- 
-Current policy in place regarding purchasing graphics cards within their specified timeline:
- 
-Just spoke with Arsen about two popular topics in here (no I didn’t record it @Henners)
-1) OFFICIALLY the cooldown is 30 days. As a private business they’re still welcome to refuse you service if they feel like it, and the “indefinitely” seems to be stemming from people they recognize or have record of buying multiple GPUs or confirmed to be reselling. 
- 
-If they deem you to fall in this camp, your cooldown is indefinite. If you’re an honest person you probably have nothing to worry about, if you’re buying your 5th card you might get denied. Get over it. 
- 
-2) He has no interest and will not be posting stock levels in advance, whether that is through discord himself, through a proxy like staff here, or in the form of a print out on the front doors. Camp at your own risk, as usual.
- 
-Comment made by @boxer  can be found here: https://discord.com/channels/758857077531213855/826818885599625327/832670760370831421
+# Dude, I'm in front of Micro Center and I see a rat?! WTF?!
+- That's the local Micro Center rat. Oh, and he's our mascot, Strix. He do be chillin doe 😳 🐀 
+- Throwback when Strix was #1 in line: https://discord.com/channels/758857077531213855/826818885599625327/829692659965755403
+
+# Can I trust Ricky?
+- Ricky is an enigma. He back and revived. :FeelsGoodMan: 
+
+# Who can I contact if I have heard people talk about scalping. What if I got a DM of someone trying to scalp to me?
+- We cannot move forward with any moderation without proof. So verbal comments aren't enough for us to work with
+- Please DM me as I am the most active Moderator of this Micro Center. If I don't respond within a few hours, reach out to any of our Community Leaders @boxer#7326, @Eepers#9822, @Gonginator#5294, or @tefla#0264. If all else fails to reply, submit a Mod Mail or DM another mod. 
+
+# For everyone who doesn't know what MSRP + Tax is for anything, purely based off of the GPUs that MC sells, feels free to use this Google Sheet that I made.
+- https://docs.google.com/spreadsheets/d/1g36-0wwWWkIxPaExWzH_PAmq_rTXr_1lo0mW43y3JyE/edit#gid=2012806775
