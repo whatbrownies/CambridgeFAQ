@@ -35,22 +35,23 @@ _**2021 Extended Holiday Hours**_
 # Does a Micro Center employee know the stock of the trucks? Can I ask them?
 - Micro Center employees don't know the stock of the trucks the day before. Please do not harrass them
 
-# How do I go about getting a graphics card then?
-Courtesy of @boxer#7326 as he has acquired key knowledge from MC directly:
-As of Wednesday June 16, 2021
-- **ABSOLUTELY** no camping is permitted on Micro Center property. No line forming is allowed unless instructed to do so by a Cambridge Micro Center Associate
-
 # How many graphics cards and processors can I walk out of the store with?
 - 1 item of each category, per customer. You cant have multiple cards or multiple processors. You decide what you want. 
 - Micro Center has the "1 card, per customer, per 30 day" rule. If you attempt to break any of these rules that the Cambridge Micro Center has in place, and they tell you they will not sell the product to you, that's that. There's nothing that us as a Discord server can do to help you. Do not talk about trying to circumvent this.  If you're caught doing this, you'll be banned. 
 
 # Dude, I'm in front of Micro Center and I see a rat?! WTF?!
 - That's the local Micro Center rat. Oh, and he's our mascot, Strix. He do be chillin doe 😳 🐀 
-- Throwback when Strix was #1 in line: https://discord.com/channels/758857077531213855/826818885599625327/829692659965755403
+- [Throwback when Strix was #1 in line](https://discord.com/channels/758857077531213855/826818885599625327/829692659965755403)
 
 # Can I trust Ricky?
-- Ricky is an enigma. He back and revived. :FeelsGoodMan: 
+- Ricky is an enigma. He back and revived. ![image](https://user-images.githubusercontent.com/44854412/143808797-167837e3-9a61-4e69-ac94-9a862c202c68.png)
 
+
+# How do I go about getting a graphics card then?
+Courtesy of @boxer#7326 as he has acquired key knowledge from MC directly:
+As of Wednesday June 16, 2021
+- **ABSOLUTELY** no camping is permitted on Micro Center property. No line forming is allowed unless instructed to do so by a Cambridge Micro Center Associate
+- 
 What you will need:
 - Government issued Identification card
 - Cell phone with QR scanning _**with**_ internet access and/or data
@@ -98,8 +99,6 @@ By going with this method, the most important thing I want to iterate is that ev
 
 Final Point:
 - Absolutely no sharing the QR code for that day. This is inclusive to both in and out of this Discord server (DMs, social media forums, etc). If you are caught doing this, moderation may take place. Please make it fair for EVERYONE
-
-
 
 # Who can I contact if I have heard people talk about scalping. What if I got a DM of someone trying to scalp to me?
 - We cannot move forward with any moderation without proof. So verbal comments aren't enough for us to work with
