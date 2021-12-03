@@ -8,34 +8,35 @@ Please, please, PLEASE read the FAQs. I cannot stress this enough. These are by 
 - 💬-ma-general-chat - Used for general, every day chatter. This is where **majority** of chat exists
 - 🐀-ma-strix-corner - This is typically used for morning discussions for those who may or may not have won the random lottery to become a GPU customer. Also used as General 2
 - 📦-ma-stock-alerts -  STRICTLY used for notifying the Cambridge community of all known levels of stock for highly sought after products. 
-  - **_DO NOT HAVE CONVERSATIONS IN THIS CHAT. YOUR MESSAGE WILL BE DELETED. KEEP IT IN_** 💬-ma-general-chat
+  - **_DO NOT HAVE CONVERSATIONS IN THIS CHAT. YOUR MESSAGE WILL BE DELETED. KEEP IT IN OTHER CAMBRIDGE CHANNELS_** 
 - 🍕-ma-food - Literally just food talk
 - 🖥-ma-hw-discussion - Mostly used for troubleshooting and/or discussion of hardware
 - 🏆-ma-dubs - Used for posting your wins. Photos are generally recommended
 
 # **Common Questions**
 #### 1️⃣ What are the store hours? How often are shuffles on these days?
-_**2021 Extended Holiday Hours**_
+**_2021 Extended Holiday Hours_** 
+
+These hours are subject to change
+
 - Monday - Saturday from 9AM to 9PM EST
   - If there is a shuffle, shuffle begins at 8AM EST
   - Shuffles are completely random during the weekday.
 - Sunday 10AM to 7PM EST
-  - There has been no weekend shuffles to anyones knowledge, so go at your own risk
+  - There has only ever been 1 weekend shuffle since June 2021, so go at your own risk
 
-#### 2️⃣ When does Micro Center get new GPU/CPU Stock
-- The following days are community known days to have the best chance of getting said items: Monday, Wednesday, Thursday, and most recently Friday. **DO NOT ASSOCIATE THESE DAYS FOR GUARENTEED STOCK**
-- Tuesdays and the weekends have been known to have a near 0% chance of getting any of the items. . 
-- Trucks **NEVER** guarentee a GPU drop. Lets get that straight
+#### 2️⃣ When does Micro Center get new GPU/CPU stock
+- Trucks typically arrive on Mondays and Thursdays. Trucks **NEVER** guarantee a GPU drop. Lets get that straight
 
 #### 3️⃣ How much stock are on these trucks?
-- LET ME REITERATE: A GUARANTEED TRUCK DOES NOT MEAN GUARANTEED STOCK. It could be as little as 2 GPUs to a whole pallet full. No one knows for sure.
+- LET ME REITERATE: A TRUCK DOES NOT MEAN GUARANTEED STOCK. It could be as little as 0 GPUs to a whole pallet full. No one knows for sure.
 
 #### 4️⃣ Do they ever get mid day shipments?
-- Occasionally yes. Which days they actually arrive seems to still be a mystery but they tend to arrive 11am-noon-ish if at all.
+- Very random. Which days they actually arrive seems to still be a mystery but they tend to arrive 11AM EST to noon-ish if at all.
 
 #### 5️⃣ How often does Micro Center carry _**X**_ product?
 - No one knows for certain. At this point it is completely random
-- AMD GPUs are _generally_ available in the display boxes
+- AMD GPUs are _generally_ available in the display cases, available for purchase
 
 #### 6️⃣ Is MicroCenter scalping/upcharging for GPUs?
 - No. Prices are MSRP
@@ -44,10 +45,9 @@ _**2021 Extended Holiday Hours**_
 - Micro Center employees don't know the stock of the trucks the day before. Please do not harrass them
 
 #### 8️⃣ How many graphics cards and processors can I walk out of the store with?
-- 1 item of each category, per customer. You cant have multiple cards or multiple processors. You decide what you want. 
+- 1 item of each category, per customer. You can't have multiple cards or multiple processors. You decide what you want. 
 - Micro Center has the "1 card, per customer, per 30 day" rule. Dont bother asking how to bypass this, you'll get muted. 
   - "**_I had my friend buy for me_**"/"**_My family member bought it for me!_**"/"**_I used a different address when buying_**" are all types of circumvention and you will banned for this.  
-- If you're caught doing this, you'll be banned. 
 
 #### 9️⃣ Can I trust Ricky?
 - Ricky is an enigma. He back and revived. ![image](https://user-images.githubusercontent.com/44854412/143808797-167837e3-9a61-4e69-ac94-9a862c202c68.png)
@@ -58,13 +58,13 @@ _**2021 Extended Holiday Hours**_
 **ABSOLUTELY** no camping is permitted on Micro Center property. No line forming is allowed unless instructed to do so by a Cambridge Micro Center Associate. This process helps everyone out as you no longer need to camp for 12 hours for a graphics card.
 
 ##### What you will need:
-> - Government issued Identification card
+> - Government issued Identification card with an address
 > - Cell phone with QR scanning ability/app _**with**_ internet access and your cell phone number
 > - Form of payment (Cash, credit card, etc)
 > - Patience
 
 How do I register for the Micro Center shuffle:
-> - 1 hour before Micro Center openning, a randomly-generated QR code (generated that day) will be posted outside the store along with the list of cards by series and quantities available that morning on a sandwich board. (eg. 3070 x 10, 3080ti x 4, etc)
+> - 1 hour before Micro Center opening, a randomly-generated QR code (generated that day) will be posted outside the store along with the list of cards by series and quantities available that morning on a sandwich board. (eg. 3070 x 10, 3080ti x 4, etc)
 > - If you are interested in any card that is available, you will need to scan the QR code and navigate to the registration site. Please note that you will enter a lottery for a general pool and not a specific card.
 > - Do not form lines and do not congregate by the entrance or by the posters with the QR code. Make it easier for everyone there and the Micro Center staff
 > - No line forming is allowed unless instructed to do so by a Cambridge Micro Center Associate.
@@ -72,7 +72,7 @@ How do I register for the Micro Center shuffle:
 >   - Submit all information that the form is requesting with absolute accuracy. First and Last Name as it appears on your ID, Cell Phone number, and ID Number. 
 
 What happens after registration:
-> - The registration website site will close 30 minutes prior to openning
+> - The registration website site will close 30 minutes prior to opening
 > - You are only given the 30 minute time window to register
 > - Immediately upon the closure of registration, randomly selected customers will be notified by "Text Message" that they are given a chance to purchase a card. 
 > - Notifications are expected to occur throughout the 30 minutes before Micro Center opens
@@ -87,7 +87,7 @@ What happens when I am picked:
 >   - Inside: to ensure that the same person is purchasing the card. The Person who won the raffle will have to be the person in-line making a purchase at the register.
 > - A Micro Center employee will direct you to form a line
 
-Please note that the following actions will result in permanent black listing:
+Please note that the following actions may result in permanent black listing:
 > - Creating multiple entries by utilizing multiple Phone Numbers/IDs/Variation in name spelling
 > - Creating registrations for Customers not physically present
 > - Switching place with someone else if your name is drawn
