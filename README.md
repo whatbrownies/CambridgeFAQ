@@ -14,12 +14,13 @@ Please, please, PLEASE read the FAQs. I cannot stress this enough. These are by 
 - 🏆-ma-dubs - Used for posting your wins. Photos are generally recommended
 
 # **Common Questions**
-#### 1️⃣ What are the store hours?
+#### 1️⃣ What are the store hours? How often are shuffles on these days?
 _**2021 Extended Holiday Hours**_
 - Monday - Saturday from 9AM to 9PM EST
   - If there is a shuffle, shuffle begins at 8AM EST
+  - Shuffles are completely random during the weekday.
 - Sunday 10AM to 7PM EST
-  - If there is a shuffle, shuffle begins at 9AM EST
+  - There has been no weekend shuffles to anyones knowledge, so go at your own risk
 
 #### 2️⃣ When does Micro Center get new GPU/CPU Stock
 - The following days are community known days to have the best chance of getting said items: Monday, Wednesday, Thursday, and most recently Friday. **DO NOT ASSOCIATE THESE DAYS FOR GUARENTEED STOCK**
@@ -54,7 +55,7 @@ _**2021 Extended Holiday Hours**_
 # How do I go about getting a graphics card then?
 ## Courtesy of @boxer#7326 as he has acquired key knowledge from MC directly:
 
-As of Wednesday June 16, 2021, **ABSOLUTELY** no camping is permitted on Micro Center property. No line forming is allowed unless instructed to do so by a Cambridge Micro Center Associate
+**ABSOLUTELY** no camping is permitted on Micro Center property. No line forming is allowed unless instructed to do so by a Cambridge Micro Center Associate. This process helps everyone out as you no longer need to camp for 12 hours for a graphics card.
 
 ##### What you will need:
 > - Government issued Identification card
