@@ -15,15 +15,8 @@ Please, please, PLEASE read the FAQs. I cannot stress this enough. These are by 
 
 # **Common Questions**
 #### 1️⃣ What are the store hours? How often are shuffles on these days?
-**_2021 Extended Holiday Hours_** 
-
-These hours are subject to change
-
-- Monday - Saturday from 9AM to 9PM EST
-  - If there is a shuffle, shuffle begins at 8AM EST
-  - Shuffles are completely random during the weekday.
-- Sunday 10AM to 7PM EST
-  - There has only ever been 1 weekend shuffle since June 2021, so go at your own risk
+- Store hours can be located here: https://www.microcenter.com/site/stores/cambridge.aspx
+- If there is a shuffle, shuffles begin 1 hour before open on that day
 
 #### 2️⃣ When does Micro Center get new GPU/CPU stock
 - Trucks typically arrive on Mondays and Thursdays. Trucks **NEVER** guarantee a GPU drop. Lets get that straight
