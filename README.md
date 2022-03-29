@@ -1,4 +1,4 @@
-# THIS IS THE MOST RECENTLY UPDATED FAQ AS OF 11/28. THE ABOVE INFORMATION IS OLDER INFORMATION. PLEASE FOLLOW THE FAQ BELOW.
+# THIS IS THE MOST RECENTLY UPDATED FAQ AS OF 3/2. THE ABOVE INFORMATION IS OLDER INFORMATION. PLEASE FOLLOW THE FAQ BELOW.
 
 Welcome!!!!
 Please, please, PLEASE read the FAQs. I cannot stress this enough. These are by far the most common questions and giving this a read will 99% answer your question. Please refrain from asking the same question as many other people when this FAQ is an excellent way for you to make YOUR OWN JUDGEMENT. Use the FAQ for guidance. 
