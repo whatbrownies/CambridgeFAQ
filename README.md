@@ -57,7 +57,7 @@ AMD 6000 Series Graphics Cards: https://www.microcenter.com/search/search_result
 # Who can I contact if I have heard people talk about scalping. What if I got a DM of someone trying to scalp to me?
 - We cannot move forward with any moderation without proof. So verbal comments aren't enough for us to work with
 - Please submit a ModMail ticket with the following information as it will provide the staff team with more information to work with:
-  - @(_username_)#1234, where #1234 denotes the 4 digits of their Discord name. Example, mine is "WhatBrownies'#0001'"
+  - @(_username_)#1234, where #1234 denotes the 4 digits of their Discord name. Example, mine is "WhatBrownies'#'0001"
   - Their Discord ID. If you dont know how to retrieve this, go to Settings > Advanced > Toggle "Developer Mode". After you do this, right click on the user in question and click on "Copy ID"
   - Screenshots of messages
 
