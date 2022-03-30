@@ -57,12 +57,8 @@ AMD 6000 Series Graphics Cards: https://www.microcenter.com/search/search_result
 # Who can I contact if I have heard people talk about scalping. What if I got a DM of someone trying to scalp to me?
 - We cannot move forward with any moderation without proof. So verbal comments aren't enough for us to work with
 - Please submit a ModMail ticket with the following information as it will provide the staff team with more information to work with:
-  - @(_username_)#1234, where #1234 denotes the 4 digits of their Discord name. Example, mine is "WhatBrownies'#'0001"
+  - (_username_)#1234, where #1234 denotes the 4 digits of their Discord name. Example, mine is "WhatBrownies'#'0001"
   - Their Discord ID. If you dont know how to retrieve this, go to Settings > Advanced > Toggle "Developer Mode". After you do this, right click on the user in question and click on "Copy ID"
   - Screenshots of messages
 
-# For everyone who doesn't know what MSRP + Tax is for anything, purely based off of the GPUs that MC sells, feels free to use this Google Sheet that I made.
-
-Please 
-- https://docs.google.com/spreadsheets/d/1p1G-lYMQCKO40o4y2FU_a49x9WPTQfS4tQjWcJPu0sU/edit?usp=sharing
-
+# Please note, admins have a functional bot that grabs the prices from MC website. We are in the works of getting this added to our store so until then,
