@@ -61,4 +61,5 @@ AMD 6000 Series Graphics Cards: https://www.microcenter.com/search/search_result
   - Their Discord ID. If you dont know how to retrieve this, go to Settings > Advanced > Toggle "Developer Mode". After you do this, right click on the user in question and click on "Copy ID"
   - Screenshots of messages
 
-# Please note, admins have a functional bot that grabs the prices from MC website. We are in the works of getting this added to our store so until then,
+# Please note, admins have a functional bot that grabs the prices from MC website. We are in the works of getting this added to our store so until then, please check the Micro Center website for the most accurate prices to date
+
