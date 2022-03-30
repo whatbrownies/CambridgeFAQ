@@ -47,9 +47,11 @@ Please, please, PLEASE read the FAQs. I cannot stress this enough. These are by 
 As of 3/2/22, Micro Center is no longer requiring customers to enter any form of a "shuffle" or "raffle" system to purchase a GPU. 
 More information can be found here: https://community.microcenter.com/discussion/8756/random-selection-process-and-faq-updated-3-9-22
 
-Here are some pre-filtered links that you can use to check the inventory of GPUs at Micro Center:\n
-Nvidia 30 Series Graphics Cards: https://www.microcenter.com/search/search_results.aspx?Ntk=all&sortby=match&N=4294966937+4294821460&myStore=true \n
-AMD 6000 Series Graphics Cards: https://www.microcenter.com/search/search_results.aspx?Ntk=all&sortby=match&N=4294966937+4294820651&myStore=true
+Here are some pre-filtered links that you can use to check the inventory of GPUs at Micro Center: 
+
+🟩**Nvidia 30 Series Graphics Cards:** https://www.microcenter.com/search/search_results.aspx?Ntk=all&sortby=match&N=4294966937+4294821460&myStore=true 
+
+🟥**AMD 6000 Series Graphics Cards:** https://www.microcenter.com/search/search_results.aspx?Ntk=all&sortby=match&N=4294966937+4294820651&myStore=true
 
 # Who can I contact if someone is not being respectful in Cambridge chat?
 - Please DM either myself, @dinghy#0001, @boxer#7326, or @Gonginator#5294 as we are the first line of defense for Cambridge. If we do not reply after a long period of time, please submit a ModMail ticket.
